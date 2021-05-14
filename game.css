@@ -1,0 +1,52 @@
+
+.body_background
+{
+background-image: url("https://cdn.wallpapersafari.com/34/30/ngZz46.jpg");
+
+}
+
+h1{
+
+color:rgb(255, 107, 107);
+font-family:Comic Sans MS, Comic Sans, cursive ;
+
+}
+
+
+
+body
+{
+	background: rgb(255, 107, 107);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(255, 250, 250);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1input , #player2input
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
